@@ -8,3 +8,7 @@ ies
 atc
 tta
 
+safdarjung
+delhi
+mumbai
+aiims
