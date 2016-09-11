@@ -1,10 +1,8 @@
-count = 0
-while (count < 5):
-	print "the count is", count
-	count = count + 1
-print "good bye"
-count = 0
-while (count < 5):
-	print "the count is", count
-	count = count + 1
-print "good bye"
+def printme( arg1, arg2, abc ):
+	print "arg1", arg1;
+	print "arg2", arg2;
+	arg3 = arg1 + arg2
+	print "arg3", arg3;
+	return;
+
+printme( 10, 20, 30 );
